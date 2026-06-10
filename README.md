@@ -18,6 +18,3 @@ This project demonstrates how to set up and manage an Active Directory environme
 
 ## Screenshots
 Screenshots are included in the screenshots folder.
-
-## What I Learned
-Through this project, I learned how Active Directory helps organizations manage users, computers, permissions, and security policies in a centralized way.
