@@ -1,0 +1,9 @@
+Active Directory Lab Environment
+Knix is a made-up company name used for this Active Directory project. This lab is running in Hyper-V on my personal computer.
+Virtual Machines
+SRV1: Windows Server 2022, 4 GB RAM, 12 virtual processors
+SRV2: Windows Server 2022, 4 GB RAM, 12 virtual processors
+Client: Windows 11, 3 GB RAM, 12 virtual processors
+Server Roles and Configuration
+On SRV1, I installed and configured Active Directory Domain Services, DNS, and DHCP. SRV1 is the main domain controller for the domain Knix.com.
+On SRV2, I joined the server to the Knix.com domain from SRV1
