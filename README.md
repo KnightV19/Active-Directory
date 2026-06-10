@@ -1,4 +1,4 @@
-# Active Directory Project
+# Active Directory Project V0.1
 
 ## Overview
 This project demonstrates how to set up and manage an Active Directory environment for a small organization. The project includes users, groups, organizational units, shared folders, permissions, and Group Policy settings.
